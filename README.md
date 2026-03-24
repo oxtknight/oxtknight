@@ -1,16 +1,22 @@
-## Hi there 👋
+## ようこそ✌️
+I'm a 2nd-year **Electrical and Electronic Engineering** student. <br>
+I love tinkering, old tech and thinkpads.<br>
+I like reading documentations and books.
 
-<!--
-**oxtknight/oxtknight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Skills
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![VHDL](https://img.shields.io/badge/VHDL-%2300599C.svg?style=for-the-badge&logo=intel&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![i3wm](https://img.shields.io/badge/i3wm-E8E8E8?style=for-the-badge&logo=i3&logoColor=black)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![picoCTF](https://img.shields.io/badge/picoCTF-red?style=for-the-badge&logo=ctf&logoColor=white)
 
-Here are some ideas to get you started:
+### 🚀 Featured Repositories
+- **[EEE-Converter-C](https://github.com/oxtknight/EEE-Converter-C):** Complex math in C.
+- **[dotfiles](https://github.com/oxtknight/dotfiles):** My Linux workflow (i3/Vim).
+- **[vhdl](https://github.com/oxtknight/vhdl):** Hardware logic verified with GHDL.
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=oxtknight&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oxtknight&layout=compact&theme=gruvbox)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
