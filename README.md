@@ -15,7 +15,7 @@ I like reading documentations and books.
 ### 🚀 Featured Repositories
 - **[EEE-Converter-C](https://github.com/oxtknight/EEE-Converter-C):** Complex math in C.
 - **[dotfiles](https://github.com/oxtknight/dotfiles):** My Linux workflow (i3/Vim).
-- **[vhdl](https://github.com/oxtknight/vhdl):** Hardware logic verified with GHDL.
+- **[collection-of-hardware-description-modules](https://github.com/oxtknight/collection-of-hardware-description-modules):** Hardware logic verified with GHDL.
 ### 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=oxtknight&show_icons=true&theme=gruvbox)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oxtknight&layout=compact&theme=gruvbox)
