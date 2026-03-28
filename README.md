@@ -1,6 +1,6 @@
 ## ようこそ✌️
-I'm a 2nd-year **Electrical and Electronic Engineering** student. <br>
-I love tinkering, old tech and thinkpads.<br>
+I'm a 2nd-year **Electrical and Electronic Engineering** student.  
+I love tinkering, old tech and thinkpads.  
 I like reading documentations and books.
 
 ### 🛠️ Skills
