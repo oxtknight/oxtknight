@@ -15,7 +15,7 @@ I like reading documentations and books.
 ### 🚀 Featured Repositories
 - **[EEE-Converter-C](https://github.com/oxtknight/EEE-Converter-C):** Complex math in C.
 - **[climon](https://github.com/oxtknight/climon):** Minimal Linux system monitor written in C.
-- **[clitodo](https://github.com/oxtknight/clitodo)**:**Minimal CLI todo tool, neuro-divergence friendly written in C.
+- **[clitodo](https://github.com/oxtknight/clitodo):** Minimal CLI todo tool, neuro-divergence friendly written in C.
 - **[dotfiles](https://github.com/oxtknight/dotfiles):** My Linux workflow (i3/Vim).
 - **[collection-of-hardware-description-modules](https://github.com/oxtknight/collection-of-hardware-description-modules):** Hardware logic verified with GHDL.
 ### 📊 GitHub Stats
