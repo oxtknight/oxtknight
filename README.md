@@ -19,6 +19,6 @@ I like reading documentations and books.
 - **[dotfiles](https://github.com/oxtknight/dotfiles):** My Linux workflow (i3/Vim).
 - **[collection-of-hardware-description-modules](https://github.com/oxtknight/collection-of-hardware-description-modules):** Hardware logic verified with GHDL.
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=oxtknight&show_icons=true&theme=gruvbox)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=oxtknight&hide=contribs,prs&show_icons=true&theme=gruvbox)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oxtknight&layout=compact&theme=gruvbox)
 
